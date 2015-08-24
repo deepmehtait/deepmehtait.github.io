@@ -1,2 +1,2 @@
 # deepmehtait.github.io
-Material Design Inspired Personam Resume Website
+Material Design Inspired Personal Resume Website
